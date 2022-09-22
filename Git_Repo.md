@@ -1,5 +1,3 @@
-Test
-
 Als erstes muss ein neuer Ordner erstellt werden. Nachdem dies erledigt ist, wechseln wir in diesen Ordner.
 In diesem Ordner oeffnen wir ein Terminal und tippen dort " git init " ein. Damit wird das neue Repo inizialisiert.
 
@@ -12,7 +10,7 @@ Als naechstes Tippen wir erneut im Terminal folgendes ein:
     </Head>
 <code>
 $ git add * ( alternativ die Dateien / Ordner die synconisiert werden sollen)
-
+<br>
 <code>
 $ git add LICENSE 
 </code>
