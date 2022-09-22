@@ -6,7 +6,22 @@ In diesem Ordner oeffnen wir ein Terminal und tippen dort " git init " ein. Dami
 Nachdem auch nun dieses erledigt ist, koennen wir anfangen, Code zu erstellen.
 
 Als naechstes Tippen wir erneut im Terminal folgendes ein:
+
+<html>
+    <Head>
+    </Head>
+<code>
 $ git add * ( alternativ die Dateien / Ordner die synconisiert werden sollen)
-$ git add LICENSE
-$ git commit -m 'Iniziale Project version'
+
+<code>
+$ git add LICENSE 
+</code>
+<br>
+$ git commit -m 'Iniziale Project version'</code>
+<br>
+<code>
+$ git push </code>
+</html>
+<br>
+<br>
 
